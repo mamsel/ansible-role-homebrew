@@ -96,7 +96,7 @@ Any additional folders inside `homebrew_prefix` for which to ensure homebrew use
 
 ## Dependencies
 
-  - [elliotweiser.osx-command-line-tools][dep-osx-clt-role]
+ Removed from orginal role, because Command Line Tools are already installed in my case.
 
 ## Example Playbook
 
