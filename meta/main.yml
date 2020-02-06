@@ -1,6 +1,5 @@
 ---
-dependencies:
-  - elliotweiser.osx-command-line-tools
+dependencies: []
 
 galaxy_info:
   author: geerlingguy

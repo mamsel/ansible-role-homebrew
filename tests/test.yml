@@ -11,5 +11,4 @@
       - homebrew/core
       - { name: denji/nginx, url: 'https://github.com/denji/homebrew-nginx.git' }
   roles:
-    - elliotweiser.osx-command-line-tools
     - ansible-role-homebrew
